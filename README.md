@@ -84,7 +84,7 @@ PDF 转换器是一款运行在 [fnOS(飞牛OS)](https://www.fnnas.com/) 上的�
 该目录的授权已被管理员移除或变更,回设置页重新选一个已授权的目录即可。
 
 **支持多大的文件?**
-PDF → 图片、图片 → PDF 单文件最大 100MB;Markdown → PDF 与 PDF 加密最大 50MB;PDF → Markdown / Word 最大 200MB。
+单文件最大 20MB。
 
 **PDF → Markdown / Word 为什么比较慢?**
 该功能在远程服务端做深度解析(含 OCR、表格识别),大文件可能需要几分钟,期间可以离开页面,回来在历史记录里查看结果。
